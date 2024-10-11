@@ -1,0 +1,10 @@
+Participante -1 ha transferido 100 a participante 0.
+Participante -1 ha transferido 150 a participante 1.
+Participante -1 ha transferido 50 a participante 2.
+Participante 0 ha transferido 50 a participante 1.
+Participante 1 ha transferido 200 a participante 2.
+Participante 2 ha transferido 250 a participante 0.
+Participante 0 ha transferido 100 a participante 1.
+Participante 0 ha transferido 50 a participante 1.
+Participante 1 ha transferido 100 a participante 2.
+Participante 2 ha transferido 50 a participante 0.
